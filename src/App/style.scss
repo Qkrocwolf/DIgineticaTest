@@ -1,0 +1,26 @@
+@import "../Shared/variables.scss";
+@import "../Shared/media.scss";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scrollbar-color: $scroll-bar $color-white;
+  scrollbar-width: thin;
+}
+body {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+}
+a {
+  color: $color-font-main;
+  text-decoration: none;
+}
+button,
+input {
+  cursor: pointer;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
