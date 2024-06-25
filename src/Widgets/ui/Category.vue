@@ -17,7 +17,7 @@
     </ul>
   </div>
 </template>
-<script setup lang="ts">
+<script setup>
 import { ref } from "vue";
 const isActive = ref(0);
 </script>
