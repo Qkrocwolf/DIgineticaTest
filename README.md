@@ -1,4 +1,4 @@
-8 - тестовый проект, использована структура папок <a href="https://feature-sliced.design/ru/docs/reference/layers">FSD</a> архитектуры, для данной верстки too much, просто тренировка
+8 - тестовый проект, использована структура папок <a href="https://feature-sliced.design/ru/docs/reference/layers">FSD</a> архитектуры, для данной верстки оверхед, просто тренировка
 
 # DIgineticaTest
 
