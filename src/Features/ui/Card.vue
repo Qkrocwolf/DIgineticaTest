@@ -21,7 +21,7 @@
       <Button class="card__button">Купить</Button>
     </div>
   </template>
-  <script setup lang="ts">
+  <script setup>
   import { computed } from "vue";
   import {Button} from '../../Shared';
   const props = defineProps({
