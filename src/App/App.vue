@@ -1,7 +1,7 @@
 <template>
   <MainPage />
 </template>
-<script setup lang="ts">
+<script setup>
 import MainPage from "../Pages";
 </script>
 
