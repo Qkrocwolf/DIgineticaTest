@@ -12,7 +12,7 @@
     <Navigation class="header__navigation" />
   </div>
 </template>
-<script setup lang="ts">
+<script setup>
 import { Logo, Button, Navigation } from "../../Shared";
 import { Search } from "../../Features";
 </script>
