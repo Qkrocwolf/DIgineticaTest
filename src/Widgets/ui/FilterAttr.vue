@@ -41,7 +41,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup>
 import { Search } from "../../Features";
 import { ref } from "vue";
 const checked = ref([]);
