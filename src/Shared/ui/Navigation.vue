@@ -7,7 +7,6 @@
     </ul>
   </nav>
 </template>
-<script setup lang="ts"></script>
 <style lang="scss">
 @import "../variables.scss";
 @import "../media.scss";
