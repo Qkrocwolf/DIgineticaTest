@@ -5,7 +5,7 @@
     <Card :text="data" v-for="card in 11"></Card>
   </div>
 </template>
-<script setup lang="ts">
+<script setup >
 import { Card, CardOutOfStock } from "../../Features";
 const data =
   "Полное название товара в несколько строк для вида с обрывом в конце Lorem ipsum dolor sit aaaaaaa";
