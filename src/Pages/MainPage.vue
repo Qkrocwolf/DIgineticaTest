@@ -11,7 +11,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup>
 import { Header, ShowCase, Price, Category, FilterAttr } from "../Widgets";
 </script>
 <style lang="scss">
