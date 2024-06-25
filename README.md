@@ -1,4 +1,4 @@
-
+8 - тестовый проект, использована <a href="https://feature-sliced.design/ru/docs/reference/layers">FSD</a> архитектура, для данной верстки too much, просто тренировка
 
 # DIgineticaTest
 
